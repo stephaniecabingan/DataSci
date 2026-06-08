@@ -2,7 +2,7 @@
 ## Author: Stephanie Cabingan
 
 Date: 08 June 2026
-Activity 7: https://stephaniecabingan.github.io/datasci/act_7/CABINGAN_Act_7.html
+Activity 7: https://stephaniecabingan.github.io/datasci/act_7/CABINGAN_Activity_7.html
 
 Date: 01 June 2026
 Activity 3: https://stephaniecabingan.github.io/datasci/myrmarkdown/CABINGAN_Act3.html
