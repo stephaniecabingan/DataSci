@@ -1,6 +1,9 @@
 # Steph's First GitHub post!
 ## Author: Stephanie Cabingan
 
+Date: 11 June 2026
+Activity 8: https://stephaniecabingan.github.io/datasci/act_8/Cabingan_hclust1.html
+
 Date: 08 June 2026
 Activity 7: https://stephaniecabingan.github.io/datasci/act_7/CABINGAN_Activity_7.html
 
